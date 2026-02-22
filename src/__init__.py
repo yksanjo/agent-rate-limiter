@@ -1,6 +1,7 @@
 """Agent Rate Limiter - Rate limiting for agent requests."""
 import time
 from collections import defaultdict
+from typing import Dict
 
 class AgentRateLimiter:
     def __init__(self, max_requests: int = 100, window: int = 60):
