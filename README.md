@@ -1,5 +1,12 @@
 # agent-rate-limiter
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-rate-limiter/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-rate-limiter/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-rate-limiter)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-rate-limiter)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-rate-limiter)
+
 ## Detailed Description
 
 agent-rate-limiter is maintained as an industry-grade software project with production-ready engineering practices.  
